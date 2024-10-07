@@ -1,3 +1,9 @@
+<h1 align="center"><b>Hi , I'm Andres Gomez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Andres+Julian+Gomez+Suarez..&hearts;++;Full+Stack+Developer,;Web+Developer+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+<br>
 # 💫 About Me:
 I'm a newcomer to the web development world, eager to learn and grow as a developer. I’m passionate about exploring new technologies, solving problems, and building projects that make an impact. Currently, I’m diving into front-end development and getting hands-on with JavaScript, HTML, CSS, and Apollo Client.<br><br>Always open to collaboration and keen to learn from others in the community!
 
